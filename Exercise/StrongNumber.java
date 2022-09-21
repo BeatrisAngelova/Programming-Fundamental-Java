@@ -1,3 +1,5 @@
+package Basic6;
+
 import java.util.Scanner;
 
 public class StrongNumber {
@@ -26,3 +28,4 @@ public class StrongNumber {
         }
 
     }
+
